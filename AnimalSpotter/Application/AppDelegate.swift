@@ -1,9 +1,9 @@
 //
 //  AppDelegate.swift
-//  animalSpotter-practice
+//  AnimalSpotter
 //
-//  Created by Dongwoo Pae on 6/9/19.
-//  Copyright © 2019 Dongwoo Pae. All rights reserved.
+//  Created by Ben Gohlke on 4/16/19.
+//  Copyright © 2019 Lambda School. All rights reserved.
 //
 
 import UIKit
